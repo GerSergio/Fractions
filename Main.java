@@ -23,7 +23,7 @@ class Fraction{
     public void sum(int a, int b, int c, int d) {
         System.out.println("Результат: " + (a * d + b * c) + "/" + b * d);
     }
-    //разногсть
+    //разность
     public void min(int a, int b, int c, int d) {System.out.println("Результат: " + (a * d - b * c) + "/" + b * d);
     }
     //умножение
